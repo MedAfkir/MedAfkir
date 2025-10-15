@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AFKIR Mohamed</h1>
-<h3 align="center">Software Engineer | Java Developer</h3>
+<h3 align="center">Java Full Stack Developer | Master's Student @UGA</h3>
 
 <p align="left">
   <img
