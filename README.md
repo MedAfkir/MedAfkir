@@ -54,14 +54,6 @@
       height="40"
     />
   </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-      alt="go"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -162,13 +154,6 @@
       height="40"
     />
   </a>
-  <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg"
-      alt="scala"
-      width="40"
-      height="40"
-    />
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img
