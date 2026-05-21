@@ -70,10 +70,10 @@ I'm a full stack developer who enjoys building robust, end-to-end web applicatio
 | Project | Description | Tech |
 | --- | --- | --- |
 | [shortener-golang](https://github.com/MedAfkir/shortener-golang) | A URL shortener service built in Go. | Go |
-| [kahoot-project](https://github.com/MedAfkir/kahoot-project) | A real-time, multiplayer quiz game inspired by Kahoot. | TypeScript |
-| [whiteboard](https://github.com/MedAfkir/whiteboard) | A collaborative online whiteboard. | TypeScript |
-| [ecom](https://github.com/MedAfkir/ecom) | An e-commerce storefront. | HTML |
-| [gestion-absences](https://github.com/MedAfkir/gestion-absences) | A student absence-management application. | HTML |
+| [kahoot-project](https://github.com/MedAfkir/kahoot-project) | A real-time, multiplayer quiz game inspired by Kahoot. | Ionic, Angular |
+| [whiteboard](https://github.com/MedAfkir/whiteboard) | A collaborative online whiteboard. | React, TypeScript |
+| [ecom](https://github.com/MedAfkir/ecom) | An e-commerce storefront. | Spring boot |
+| [gestion-absences](https://github.com/MedAfkir/gestion-absences) | A student absence-management application. | Spring boot |
 
 ## GitHub Stats
 
