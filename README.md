@@ -72,10 +72,3 @@ I'm a full stack developer who enjoys building robust, end-to-end web applicatio
 | [whiteboard](https://github.com/MedAfkir/whiteboard) | A collaborative online whiteboard. | React, TypeScript |
 | [ecom](https://github.com/MedAfkir/ecom) | An e-commerce storefront. | Spring boot |
 | [gestion-absences](https://github.com/MedAfkir/gestion-absences) | A student absence-management application. | Spring boot |
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MedAfkir&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Mohamed's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedAfkir&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
