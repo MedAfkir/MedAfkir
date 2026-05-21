@@ -20,11 +20,11 @@
 
 ## About Me
 
-I'm a full stack developer who enjoys building robust, end-to-end web applications — from REST APIs and data layers to clean, responsive interfaces. I work primarily across the **Java / Spring** ecosystem on the backend and **TypeScript / React** on the frontend, and I'm currently pursuing a Master's degree at **Université Grenoble Alpes**.
+I'm a full stack developer who enjoys building robust, end-to-end web applications, from REST APIs and data layers to clean, responsive interfaces. I work primarily across the **Java / Spring** ecosystem on the backend and **TypeScript / React** on the frontend, and I'm currently pursuing a Master's degree at **Université Grenoble Alpes**.
 
 - Designing and shipping applications from the database up to the UI
 - Comfortable across relational and NoSQL databases and event-driven systems with Kafka
-- Always picking up new tools — most recently **Go**
+- Always picking up new tools, most recently **Go**
 
 ## Tech Stack
 
