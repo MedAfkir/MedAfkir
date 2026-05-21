@@ -2,8 +2,6 @@
 
 <p align="center">
   <b>Java Full Stack Developer</b> &nbsp;·&nbsp; Master's Student @ Université Grenoble Alpes
-  <br />
-  Grenoble, France
 </p>
 
 <p align="center">
