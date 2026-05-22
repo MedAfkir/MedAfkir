@@ -1,4 +1,4 @@
-<h1 align="center">Mohamed Afkir</h1>
+<h1 align="center">Mohamed AFKIR</h1>
 
 <p align="center">
   <b>Java Full Stack Developer</b> &nbsp;·&nbsp; Master's Student @ Université Grenoble Alpes
