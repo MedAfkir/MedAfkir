@@ -86,8 +86,8 @@ I'm a full stack developer who enjoys building robust, end-to-end web applicatio
 | Project | Description | Tech |
 | --- | --- | --- |
 | [workflow-automation](https://github.com/MedAfkir/workflow-automation) | A small workflow orchestration engine | Java, Spring boot, React, Postgres-as-queue, DDD |
+| [hotel-management](https://github.com/MedAfkir/hotel-management) | A hotel reservation platform (in progress) | Java, Spring boot, Spring Cloud, microservices, DDD |
 | [shortener-golang](https://github.com/MedAfkir/shortener-golang) | A URL shortener service built in Go. | Go |
 | [kahoot-project](https://github.com/MedAfkir/kahoot-project) | A real-time, multiplayer quiz game inspired by Kahoot. | Ionic, Angular |
-| [whiteboard](https://github.com/MedAfkir/whiteboard) | A collaborative online whiteboard. | React, TypeScript |
 | [ecom](https://github.com/MedAfkir/ecom) | An e-commerce storefront. | Spring boot |
 | [gestion-absences](https://github.com/MedAfkir/gestion-absences) | A student absence-management application. | Spring boot |
